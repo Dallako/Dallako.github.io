@@ -4,6 +4,11 @@ p {
 	color: cyan;
 	border: 3px dotted red;
 }
+
+.ten {
+	width: 70%;
+}
+
 body {
-	background-image: https://cdn.discordapp.com/attachments/548659566812856370/914224984656850944/FEVnBCYVcAIXFGJ.jpg;
+	background-image: url('https://cdn.discordapp.com/attachments/548659566812856370/914224984656850944/FEVnBCYVcAIXFGJ.jpg');
 }
