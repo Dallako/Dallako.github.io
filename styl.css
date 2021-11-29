@@ -30,6 +30,7 @@ body {
     font-family: 'Courier New', Courier, monospace;
     font-size: 13px;
     text-align: center;
+	height: 80%;
 }
 .download {
     border: 4px solid black;
