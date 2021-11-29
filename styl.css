@@ -37,7 +37,7 @@ body {
     background-color: red;
     color: white;
     text-align: center;
-    padding: 3px;
+    padding: auto;
     height: 75px;
     width: 250px;
     margin-left: auto;
