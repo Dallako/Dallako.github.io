@@ -1,19 +1,4 @@
-/*p {
-	font-family: Times New Roman;
-	font-size: 420%;
-	color: cyan;
-	border: 3px dotted red;
-}
-
-.ten {
-	width: 70%;
-}
-
-body {
-	background-image: url('https://cdn.discordapp.com/attachments/548659566812856370/914224984656850944/FEVnBCYVcAIXFGJ.jpg');
-}*/
-
-#upperpanel {
+/*#upperpanel {
     background-color: #4d4d4d;
     border: 2px solid #d9d9d9;
     width: 100%;
@@ -21,17 +6,16 @@ body {
     color: #5c00e6;
     padding: 3px;
     margin-bottom: 0px;
-}
+}*/
 #files {
     width: 100%;
-    margin-top: auto;
-	margin-bottom: auto;
+    margin-top: 0px;
     background-color: #004d00;
     color: white;
     font-family: 'Courier New', Courier, monospace;
     font-size: 13px;
     text-align: center;
-	height: 720px;
+	height: 900px;
     border: 4px dotted red;
 }
 .download {
@@ -47,7 +31,7 @@ body {
 	margin-top: 5px;
 	margin-bottom: 5px;
 }
-#bottom {
+.panel {
     background-color: #4d4d4d;
     border: 2px solid #d9d9d9;
     width: 100%;
