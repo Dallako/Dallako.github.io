@@ -17,6 +17,7 @@
     text-align: center;
 	height: 900px;
     border: 4px dotted red;
+	padding: auto;
 }
 .download {
     border: 4px solid black;
