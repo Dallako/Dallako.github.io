@@ -24,13 +24,14 @@ body {
 }
 #files {
     width: 100%;
-    margin-top: 0px;
+    margin-top: auto;
+	margin-bottom: auto;
     background-color: #004d00;
     color: white;
     font-family: 'Courier New', Courier, monospace;
     font-size: 13px;
     text-align: center;
-	height: 900px;
+	height: 720px;
     border: 4px dotted red;
 }
 .download {
